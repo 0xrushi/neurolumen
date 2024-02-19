@@ -1,6 +1,5 @@
 '''
-Receiver script
-Use this on pc for replacement of ArtNetView
+DMX Stream Recorder script
 '''
 
 from stupidArtnet import StupidArtnetServer
@@ -18,9 +17,9 @@ def test_callback(data, universe):
 
     # Prepare the data entry
     data_entry = {
-        "timestamp": timestamp,
-        "universe": universe,
-        "intensities": intensities
+        "t": timestamp,
+        "uni": universe,
+        "val": intensities
     }
 
     with open(OUTPUT_FILE, "a") as json_file:
