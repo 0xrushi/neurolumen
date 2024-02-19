@@ -1,10 +1,10 @@
 # NeuroLumen
 
 ## Overview
-This project is about creating an AI system that simulates a lighting desk's output during live performances. By integrating audio signal processing and machine learning techniques, the AI will be trained to generate DMX signals in response to musical inputs, emulating a human lighting operator’s style and decisions.
+This project is creating an AI system that simulates a dmx stream for dance music live shows in the style of an operator who's data it's been trained on. By integrating audio signal processing and machine learning techniques, the AI will be trained to generate DMX signals in response to musical inputs, emulating human lighting operator’s style and decisions.
 
 ## Project Objectives
-1. **Operating with DMX Protocol**
+1. **Operating with DMX & Artnet Protocols**
 2. **Data Collection**
 3. **Exploring Audio DSP and MFCC**: Investigating Mel-frequency cepstral coefficients for music genre recognition to enhance the AI model’s responsiveness to audio inputs.
 4. **Iterative AI Development**
@@ -19,6 +19,5 @@ For each show, the following data will be collected:
 
 ## Join the Project
 If you are passionate about combining technology with creative arts, particularly in the realm of live performance lighting, we encourage you to contribute to this project. 
-
 
 *Note: This project is currently in the conceptual stage.*
