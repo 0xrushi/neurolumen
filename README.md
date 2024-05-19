@@ -1,4 +1,5 @@
 # NeuroLumen
+### Dataset download link [here](https://mega.nz/folder/uXo1nLbI#Qdz4f5KYolZnQ7Lo_DQTDw)
 
 ## Overview
 This project is about creating an AI system that simulates a DMX stream for dance music live shows in the style of an operator whose data it's been trained on. By integrating audio signal processing and machine learning techniques, the AI will be trained to generate DMX signals in response to musical inputs, emulating the human lighting operator’s style and decisions.
